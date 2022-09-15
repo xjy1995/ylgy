@@ -7,3 +7,4 @@ Quantumult X 重写脚本
 要打开 重写和MitM
 
 
+使用方法  https://github.com/yangdaozhao/ylgy/issues/8#issuecomment-1248027573
