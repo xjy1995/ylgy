@@ -1,3 +1,5 @@
+# 暂时已失效 等找到办法更新
+
 Quantumult X 重写脚本
 
 羊了个羊重写脚本
@@ -10,3 +12,8 @@ Quantumult X 重写脚本
 Quantumult X 使用方法  https://github.com/yangdaozhao/ylgy/issues/8#issuecomment-1248027573
 
 shadowsocket 使用方法  https://github.com/yangdaozhao/ylgy/issues/4#issuecomment-1248871028
+
+
+
+
+
