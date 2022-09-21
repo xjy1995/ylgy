@@ -16,6 +16,8 @@ Quantumult X 使用方法  https://github.com/yangdaozhao/ylgy/issues/8#issuecom
 
 shadowsocket 使用方法  https://github.com/yangdaozhao/ylgy/issues/4#issuecomment-1248871028
 
+surge 使用方法：点击ylgy.sgmodule - raw - copy url, 打开surge - 模块 - 安装模块 - 粘贴url
+
 
 
 
