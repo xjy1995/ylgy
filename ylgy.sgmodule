@@ -5,4 +5,4 @@
 Ylgy = type=http-response, pattern=^https://cat-match-static.easygame2021\.com/maps/(.*), requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/yangdaozhao/ylgy/master/ylgy.js, argument=
   
 [MITM]
-hostname = *.easygame2021.com
+hostname = %APPEND% *.easygame2021.com
