@@ -2,7 +2,7 @@
 #!desc = 需要删除微信小程序后重新进入，当看到无图案的方块即为插件运行成功，此时已经将难度降为最低，手动翻牌即可通关。[9月20日版本]
 
 [Script]
-Ylgy = type=http-response, pattern=^https://cat-match-static.easygame2021\.com/maps/(.*), requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/yangdaozhao/ylgy/master/ylgy.js, argument=
+Ylgy = type=http-response, pattern=^https://cat-match-static.easygame2021\.com/maps/(.*), requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/xjy1995/ylgy/master/ylgy.js, argument=
   
 [MITM]
 hostname = %APPEND% *.easygame2021.com
